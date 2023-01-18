@@ -5,5 +5,5 @@ dependencies {
 implementation 'me.leolin:ShortcutBadger:1.1.22@aar'
 }
 dependencies {
-    compile 'com.github.arturogutierrez:badges:1.0.5@aar'
+    implementation 'com.github.arturogutierrez:badges:1.0.5@aar'
 }
